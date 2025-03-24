@@ -1,4 +1,4 @@
-# NavTweaks (former Fullscreen/Immersive gestures) 10-14
+/*# NavTweaks (former Fullscreen/Immersive gestures) 10-14
 
 ![](https://i.imgur.com/vcXAreJ.png)
 
@@ -51,11 +51,17 @@ This Magisk Module lets you tweak the appearence of Android 10-14's navigation b
 
 ## Changelog
 
+### v27.7
 
-### v27.5
-- Android 15 QPR2 support
+- Added French translation (thanks to @SamsungModdingPlateforms)
 
-- Updated English and Chinese translations
+- Added Turkish translation (thanks to @OmerNgs)
+
+- Readded/Update Russian translation (thanks to Emulond Argent)
+
+- Increased selection timeout delay to give users more time to read and select the options they want 
+
+- Added Indonesian translation
 
 ### v27.3
 - Fix the disable bottom gestures option not working (as it was conflicting with the gesture sensitivity option)
