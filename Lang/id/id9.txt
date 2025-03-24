@@ -1,0 +1,8 @@
+
+        Pill Gestur Akan Mengikuti Tema Terang Dan Gelap?
+
+        (Fitur Ini Tidak Menjamin Keberhasilannya
+        Dan Jikapun Berhasil Akan Menghasilkan Garis Putih Kecil
+        Di Bagian Bawah Layar)
+
+        Vol+ = Iya , Vol- = Tidak

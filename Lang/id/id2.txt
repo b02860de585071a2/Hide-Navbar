@@ -1,0 +1,4 @@
+
+		Mau Sembunyikan Pill Gesture?,Tapi Keyboard Tidak Akan Menyentuh Pill Gesture Alias Membuat Ruang Kosong
+
+		Vol+ = Iya , Vol- = Tidak (Mengunakan Bawaan Rom)

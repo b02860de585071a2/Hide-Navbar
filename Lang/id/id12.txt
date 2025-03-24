@@ -1,0 +1,4 @@
+
+        Mau Nonaktifkan Gesture Ke HomeScreen/Resent Apps? (Untuk Menggunakan Aplikasi Gestur)
+
+        Vol+ = Iya , Vol- = Tidak
