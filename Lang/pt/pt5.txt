@@ -1,4 +1,4 @@
 
-		Deseja desativar o gesto de voltar?
+		Desativar o gesto de voltar?
 
 		Vol + = Sim, Vol- = Nao
