@@ -1,0 +1,4 @@
+
+        Désactiver la page d'accueil/les gestes récents ? (pour utiliser les applications gestuelles)
+
+        Vol+ = Oui, Vol- = Non

@@ -1,0 +1,4 @@
+
+		Masquer l'indice de geste/la pilule mais garder de l'espace sous le clavier ?
+
+		Vol+ = Oui, Vol- = Non (par défaut)

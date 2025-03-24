@@ -1,0 +1,5 @@
+
+        Cacher les boutons sous le clavier ?
+        (Bouton Retour/Changer le bouton du clavier)
+
+        Vol+ = Oui, Vol- = Non

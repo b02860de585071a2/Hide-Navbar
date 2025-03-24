@@ -1,0 +1,9 @@
+
+        Enable workaround for the gesture bar/pill
+        not changing to dark/light theme?
+
+        (The option isn't guaranteed to work
+        and will result in a small white line
+        at the bottom of the screen)
+
+        Vol+ = Yes , Vol- = No

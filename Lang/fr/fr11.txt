@@ -1,0 +1,4 @@
+
+        Cacher l'espace supplémentaire sous le clavier ?
+
+        Vol+ = Oui, Vol- = Non

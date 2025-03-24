@@ -1,0 +1,5 @@
+
+        Désactiver les gestes de retour ?
+
+        Vol+ = Oui, Vol- = Non
+

@@ -1,0 +1,5 @@
+
+        Comment désactiver le geste de retour ?
+
+        Vol+ = Uniquement à gauche, Vol- = Complètement (pour les applications gestuelles)
+

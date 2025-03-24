@@ -1,0 +1,7 @@
+
+        Dans quelle mesure les gestes de la maison/récents doivent-ils être sensibles ?
+
+        (Une sensibilité élevée peut provoquer des gestes accidentels et être déclenché par accident lors de la frappe)
+
+        Vol+ = Faible (valeur par défaut du module), Vol- = Élevé (valeur par défaut d'Android)
+

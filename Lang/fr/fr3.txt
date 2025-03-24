@@ -1,0 +1,4 @@
+
+        Réduire l'espace sous le clavier ?
+
+        Vol+ = Oui, Vol- = Non (par défaut)
