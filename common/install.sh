@@ -300,3 +300,5 @@ fi
 
 ui_print "     Complete"
 
+chmod 755 /data/adb/modules/HideNavBar/
+
