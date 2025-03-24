@@ -1,0 +1,4 @@
+
+        Geri hareketlerini yeniden etkinleştirmek
+        istiyorsanız, bu seçenek devre dışı olacak
+        şekilde modülü yeniden yükleyin.

@@ -1,0 +1,5 @@
+
+        Geri hareketi devre dışı bırakılsın mı?
+
+        Vol+ = Evet , Vol- = Hayır
+

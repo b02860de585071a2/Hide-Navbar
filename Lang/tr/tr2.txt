@@ -1,0 +1,5 @@
+
+		Hareket çubuğu kapatılsın ancak klavye
+		altındaki boşluk kapatılmasın.
+
+		Vol+ = Evet , Vol- = Hayır (Varsayılan)

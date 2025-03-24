@@ -1,0 +1,4 @@
+
+        Klavye altındaki boşluk kapatılsınmı?
+
+        Vol+ = Evet , Vol- = Hayır (Varsayılan)

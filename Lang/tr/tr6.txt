@@ -1,0 +1,8 @@
+
+        Geri hareketinin devre dışı bırakılacağı
+        kenarları belirleyin.
+
+        Vol+ = Yanlızca sol kenar , 
+        Vol- = Tamamen (hareket uygulamalarını
+        kullanmak için)
+

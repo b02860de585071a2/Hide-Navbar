@@ -1,0 +1,6 @@
+
+        Anasayfa ve son uygulamalar hareketleri devre
+        dışı bırakılsın mı? 
+        (hareket uygulamalarını kullanmak için)
+
+        Vol+ = Evet , Vol- = Hayır

@@ -1,0 +1,10 @@
+
+        Ana sayfa ve son uygulamalar hareketleri ne
+        kadar hassas olmalı?
+
+        (Yüksek hassasiyet, yazarken hareketlerin
+         kazara tetiklenmesine neden olabilir)
+
+        Vol+ = Düşük (Modül Varsayılanı) 
+        Vol- = Yüksek (Android Varsayılanı)
+

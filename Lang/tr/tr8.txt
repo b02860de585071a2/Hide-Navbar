@@ -1,0 +1,5 @@
+
+        Klavye altındaki butonlar gizlensinmi?
+        (Geri butonu veya klavye değiştirme butonu)
+
+        Vol+ = Evet , Vol- = Hayır

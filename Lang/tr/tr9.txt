@@ -1,0 +1,10 @@
+
+        Hareket çubuğunun karanlık ve aydınlık
+        temaya dönüşmemesi için geçici çözüm
+        uygulansınmı?
+
+        (Seçeneğin çalışması garanti edilmez
+        ve ekranın alt kısmında küçük bir beyaz
+        çizgiyle sonuçlanır)
+
+            Vol+ = Evet , Vol- = Hayır
