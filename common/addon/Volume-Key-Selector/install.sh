@@ -25,13 +25,13 @@ chooseport_legacy() {
 
 chooseport() {
   # Original idea by chainfire and ianmacd @xda-developers
-  [ "$1" ] && local delay=$1 || local delay=100
+  [ "$1" ] && local delay=$1 || local delay=1000
   local error=false 
   while true; do
     local count=0
     while true; do
       timeout $delay /system/bin/getevent -lqc 1 2>&1 > $TMPDIR/events &
-      sleep 0.5; count=$((count + 1))
+      sleep 1.5; count=$((count + 1))
       if (`grep -q 'KEY_VOLUMEUP *DOWN' $TMPDIR/events`); then
         return 0
       elif (`grep -q 'KEY_VOLUMEDOWN *DOWN' $TMPDIR/events`); then
