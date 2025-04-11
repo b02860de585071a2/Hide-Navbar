@@ -1,0 +1,6 @@
+
+        ¿Deshabilitar gestos para ir a la
+        pantalla principal/aplicaciones recientes?
+        (para usar aplicaciones de gestos)
+
+        Vol+ = Sí , Vol- = No

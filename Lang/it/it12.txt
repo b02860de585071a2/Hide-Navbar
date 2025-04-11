@@ -1,0 +1,4 @@
+
+        Disattivare la navigazione tramite gesti? (per usare alternative di terze parti)
+
+        Vol+ = Sì , Vol- = No

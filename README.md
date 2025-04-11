@@ -51,6 +51,12 @@ This Magisk Module lets you tweak the appearence of Android 10-14's navigation b
 
 ## Changelog
 
+### v27.8s
+
+- Re-added Italian translation (thanks to Giuseppe Longobardo)
+
+- Re-added Spanish translation (thanks to [Omar Platas Salas](https://github.com/YourOrdinaryCat) )
+
 ### v27.7
 
 - Added French translation (thanks to @SamsungModdingPlateforms)

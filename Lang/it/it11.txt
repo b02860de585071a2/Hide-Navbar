@@ -1,0 +1,4 @@
+
+        Nascondere lo spazio extra sotto la tastiera?
+
+        Vol+ = Sì , Vol- = No

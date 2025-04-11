@@ -1,0 +1,4 @@
+
+        Nascondere la barra di navigazione?
+
+        Vol+ = Sì , Vol- = No
