@@ -1,11 +1,11 @@
-/*# NavTweaks (former Fullscreen/Immersive gestures) 10-14
+*# NavTweaks (former Fullscreen/Immersive gestures) 10-15
 
 ![](https://i.imgur.com/vcXAreJ.png)
 
-This Magisk Module lets you tweak the appearence of Android 10-14's navigation bar.
+This Magisk Module lets you tweak the appearence of Android 10-15's navigation bar.
 
 ## Requirements
-- Android 10-14
+- Android 10-15
 - Magisk 20+ or KernelSU (likely Apatch as well)
 
 ## Installation 
