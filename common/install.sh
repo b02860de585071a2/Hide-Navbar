@@ -52,7 +52,11 @@ LNG="$MODPATH"/Lang/"$LANGS"/"$LANGS"
 #Hiding navbar or not
 cat "$LNG"10.txt
 if $VKSEL; then
-     BH=0.0
+   if [ "$API" -ge 35 ]; then
+      BH=1.0
+   else
+      BH=0.0
+   fi
      SS=true
      HIDE=true
      VAR3=a
@@ -144,7 +148,7 @@ fi
 if [ "$SS" = true ] ; then
      cat "$LNG"9.txt
      if $VKSEL; then
-      if [ "$FH" = 0 ] ; then
+      if [ "$FH" = 0.0 ] ; then
       BH=1.0
       FH=1.0
       else
