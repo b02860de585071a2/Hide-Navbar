@@ -144,8 +144,8 @@ if [ "$SS" = true ] ; then
      fi
 fi
 
-#Gcam fix
-if [ "$SS" = true ] ; then
+#Gcam fix on A14 and below
+if [ "$SS" = true ] && [ "$API" -le 34 ] ; then
      cat "$LNG"9.txt
      if $VKSEL; then
       if [ "$FH" = 0.0 ] ; then
